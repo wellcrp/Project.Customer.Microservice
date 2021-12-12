@@ -9,7 +9,8 @@ Utilizando conceitos como:
   - Padrão Unit Of Work
   - SQL SERVER
   - Mediatr
-  - class Generics
+  - FluentValidation
+  - Class Generics
  
 Utilizando arquitetura clean architecture:
 
