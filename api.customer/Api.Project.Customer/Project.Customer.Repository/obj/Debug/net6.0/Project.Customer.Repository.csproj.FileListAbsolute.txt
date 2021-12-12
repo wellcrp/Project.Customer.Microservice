@@ -1,0 +1,12 @@
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Repository\bin\Debug\net6.0\Project.Customer.Repository.deps.json
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Repository\bin\Debug\net6.0\Project.Customer.Repository.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Repository\bin\Debug\net6.0\ref\Project.Customer.Repository.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Repository\bin\Debug\net6.0\Project.Customer.Repository.pdb
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Repository\obj\Debug\net6.0\Project.Customer.Repository.csproj.AssemblyReference.cache
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Repository\obj\Debug\net6.0\Project.Customer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Repository\obj\Debug\net6.0\Project.Customer.Repository.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Repository\obj\Debug\net6.0\Project.Customer.Repository.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Repository\obj\Debug\net6.0\Project.Customer.Repository.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Repository\obj\Debug\net6.0\Project.Customer.Repository.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Repository\obj\Debug\net6.0\ref\Project.Customer.Repository.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Repository\obj\Debug\net6.0\Project.Customer.Repository.pdb

@@ -1,0 +1,12 @@
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Infrastructure\bin\Release\net6.0\Project.Customer.Infrastructure.deps.json
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Infrastructure\bin\Release\net6.0\Project.Customer.Infrastructure.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Infrastructure\bin\Release\net6.0\ref\Project.Customer.Infrastructure.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Infrastructure\bin\Release\net6.0\Project.Customer.Infrastructure.pdb
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Infrastructure\obj\Release\net6.0\Project.Customer.Infrastructure.csproj.AssemblyReference.cache
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Infrastructure\obj\Release\net6.0\Project.Customer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Infrastructure\obj\Release\net6.0\Project.Customer.Infrastructure.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Infrastructure\obj\Release\net6.0\Project.Customer.Infrastructure.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Infrastructure\obj\Release\net6.0\Project.Customer.Infrastructure.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Infrastructure\obj\Release\net6.0\Project.Customer.Infrastructure.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Infrastructure\obj\Release\net6.0\ref\Project.Customer.Infrastructure.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\api.customer\Api.Project.Customer\Project.Customer.Infrastructure\obj\Release\net6.0\Project.Customer.Infrastructure.pdb
