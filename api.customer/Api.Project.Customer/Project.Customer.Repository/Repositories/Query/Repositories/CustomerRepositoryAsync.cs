@@ -13,9 +13,9 @@ namespace Project.Customer.Infra.Repository.Repositories.Query.Repositories
             _customerContext = customerContext;
         }
 
-        //public override async Task<IEnumerable<CustomerEntities>> GetAll()
+        //public override string GetStringTeste()
         //{
-        //    
+        //    return "Wellington Override";
         //}
     }
 }

@@ -1,5 +1,6 @@
 ﻿using Autofac;
 using AutoMapper;
+using FluentValidation.AspNetCore;
 using Microsoft.Extensions.DependencyInjection;
 using Project.Customer.Application.Handlers.QueryHandler;
 using Project.Customer.Application.Mapper;

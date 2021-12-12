@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "MsK1m2u8VLPPwmFAMEZNvDDGlVXICUX2+I9N+uGEfmlUCqC4ZbMQIcQtacHXG407kJnvrVoVF2j7J7KrspMFxw==",
+  "dgSpecHash": "8hMZc5RsHbK9i+NS8QTeIe7L65s6TzsS1UhuZha8FEtTEP1vjTtWM2VFbGt06HY2k/yDZFzVf5np+xDsYouYMQ==",
   "success": true,
-  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\api.customer\\Api.Project.Customer\\Project.Customer.Api\\Project.Customer.Api.csproj",
+  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Api\\Project.Customer.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\well_\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\well_\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
+    "C:\\Users\\well_\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.5\\fluentvalidation.aspnetcore.10.3.5.nupkg.sha512",
+    "C:\\Users\\well_\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.5\\fluentvalidation.dependencyinjectionextensions.10.3.5.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

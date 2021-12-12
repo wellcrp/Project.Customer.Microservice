@@ -20,6 +20,7 @@ namespace Project.Customer.Application.Handlers.QueryHandler
         public async Task<IEnumerable<CustomerResponse>> Handle(GetAllCustomerQueryCommand request, CancellationToken cancellationToken)
         {
             var result = await _customerUnitOfWork.Customer.GetAll();
+                        
             var mapper = _mapper.Map<IEnumerable<CustomerResponse>>(result);      
 
             return mapper;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\api.customer\\Api.Project.Customer\\Project.Customer.Repository\\Project.Customer.Infra.Persistence.csproj": {}
+    "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Repository\\Project.Customer.Infra.Persistence.csproj": {}
   },
   "projects": {
-    "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\api.customer\\Api.Project.Customer\\Project.Customer.Domain\\Project.Customer.Domain.csproj": {
+    "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Domain\\Project.Customer.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\api.customer\\Api.Project.Customer\\Project.Customer.Domain\\Project.Customer.Domain.csproj",
+        "projectUniqueName": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Domain\\Project.Customer.Domain.csproj",
         "projectName": "Project.Customer.Domain",
-        "projectPath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\api.customer\\Api.Project.Customer\\Project.Customer.Domain\\Project.Customer.Domain.csproj",
+        "projectPath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Domain\\Project.Customer.Domain.csproj",
         "packagesPath": "C:\\Users\\well_\\.nuget\\packages\\",
-        "outputPath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\api.customer\\Api.Project.Customer\\Project.Customer.Domain\\obj\\",
+        "outputPath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -63,14 +63,14 @@
         }
       }
     },
-    "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\api.customer\\Api.Project.Customer\\Project.Customer.Repository\\Project.Customer.Infra.Persistence.csproj": {
+    "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Repository\\Project.Customer.Infra.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\api.customer\\Api.Project.Customer\\Project.Customer.Repository\\Project.Customer.Infra.Persistence.csproj",
+        "projectUniqueName": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Repository\\Project.Customer.Infra.Persistence.csproj",
         "projectName": "Project.Customer.Infra.Persistence",
-        "projectPath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\api.customer\\Api.Project.Customer\\Project.Customer.Repository\\Project.Customer.Infra.Persistence.csproj",
+        "projectPath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Repository\\Project.Customer.Infra.Persistence.csproj",
         "packagesPath": "C:\\Users\\well_\\.nuget\\packages\\",
-        "outputPath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\api.customer\\Api.Project.Customer\\Project.Customer.Repository\\obj\\",
+        "outputPath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -92,8 +92,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\api.customer\\Api.Project.Customer\\Project.Customer.Domain\\Project.Customer.Domain.csproj": {
-                "projectPath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\api.customer\\Api.Project.Customer\\Project.Customer.Domain\\Project.Customer.Domain.csproj"
+              "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Domain\\Project.Customer.Domain.csproj": {
+                "projectPath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Domain\\Project.Customer.Domain.csproj"
               }
             }
           }

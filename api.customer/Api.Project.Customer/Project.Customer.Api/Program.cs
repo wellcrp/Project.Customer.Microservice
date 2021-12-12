@@ -1,3 +1,4 @@
+using FluentValidation.AspNetCore;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Project.Customer.Application.Queries;
@@ -18,6 +19,10 @@ builder.Services.AddMediatR(typeof(GetAllCustomerQueryCommand).Assembly);
 builder.Services.AddDbContext<CustomerSqlContext>(options =>
         options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
  );
+
+#region FluentValidation
+builder.Services.AddMvc().AddFluentValidation(x => x.RegisterValidatorsFromAssemblyContaining<Program>());
+#endregion
 
 builder.Services.RegisterApplicationService();
 
