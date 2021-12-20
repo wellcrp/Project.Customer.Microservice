@@ -12,7 +12,7 @@ namespace Project.Customer.Infra.Repository.Repositories.Repository
             _customerContext = customerContext;
         }
         public async Task<IEnumerable<TEntity>> GetAll() => await _customerContext.Set<TEntity>().ToListAsync();
-        public async Task<TEntity> GetById(int id) => await _customerContext.Set<TEntity>().FindAsync(id);        
+        public async Task<TEntity> GetById(int id) => await _customerContext.Set<TEntity>().FindAsync(id);
         public void Dispose() => _customerContext.Dispose();
     }
 }

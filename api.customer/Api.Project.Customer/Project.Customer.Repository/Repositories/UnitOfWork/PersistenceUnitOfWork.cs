@@ -23,12 +23,6 @@ namespace Project.Customer.Infra.Persistence.Repositories.UnitOfWork
         {
             _customerDbContext.Dispose();
             GC.SuppressFinalize(this);
-        }
-
-        //protected void Dispose(bool dispose)
-        //{
-        //    if (!_disposed && dispose) _customerDbContext.Dispose();
-        //    _disposed = true;
-        //}
+        }   
     }
 }

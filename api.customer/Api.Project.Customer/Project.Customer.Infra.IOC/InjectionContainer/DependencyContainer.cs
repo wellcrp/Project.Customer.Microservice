@@ -29,11 +29,14 @@ namespace Project.Customer.Infra.IOC.InjectionContainer
             #region SERVIÇOS            
             service.AddAutoMapper(Assembly.GetExecutingAssembly());
             builder.RegisterType<GetAllCustomerHandler>().As<IPersistenceUnitOfWork>();
+            builder.RegisterType<GetByIdCustomerHandler>().As<IPersistenceUnitOfWork>();
             #endregion
 
             #region CAMADA REPOSITORIO SQL
             service.AddSingleton(mapper);
+            
             service.AddTransient(typeof(IRepositoryGenericAsync<>), typeof(RepositoryGenericAsync<>));
+            
             service.AddScoped<IPersistenceUnitOfWork, PersistenceUnitOfWork>();
             service.AddScoped<ICustomerRepositoryAsync, CustomerRepositoryAsync>();
             //service.AddTransient<ICustomerRepository, CustomerInfraestructureRepository>();

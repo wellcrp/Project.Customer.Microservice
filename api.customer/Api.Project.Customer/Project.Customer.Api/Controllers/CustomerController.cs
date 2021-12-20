@@ -32,9 +32,9 @@ namespace Project.Customer.Api.Controllers
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public async Task<IActionResult> GetById([FromRoute]int id)
         {
-            //var result = await _mediator.Send(new GetAllCustomerQueryCommand());
+            var result = await _mediator.Send(new GetCustomerByIdQueryCommand(id));
 
-            return Ok(id);
+            return Ok(result);
         }
     }
 }
