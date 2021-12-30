@@ -20,7 +20,7 @@ namespace Project.Customer.Api.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public async Task<IActionResult> GetInsertCustomer([FromBody]CreateCustomerCommand customerCommand)
+        public async Task<IActionResult> PostInsertCustomer([FromBody]CreateCustomerCommand customerCommand)
         {
             var result = await _mediator.Send(customerCommand);
 

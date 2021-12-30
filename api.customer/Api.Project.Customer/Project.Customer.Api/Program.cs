@@ -1,7 +1,9 @@
 using FluentValidation.AspNetCore;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
+using Project.Customer.Api.Filters;
 using Project.Customer.Application.Queries;
+using Project.Customer.Application.Validators.Customers;
 using Project.Customer.Infra.IOC.InjectionContainer;
 using Project.Customer.Infra.Persistence.Context;
 
@@ -21,7 +23,11 @@ builder.Services.AddDbContext<CustomerSqlContext>(options =>
  );
 
 #region FluentValidation
-builder.Services.AddMvc().AddFluentValidation(x => x.RegisterValidatorsFromAssemblyContaining<Program>());
+builder.Services
+        .AddControllers(opt => opt.Filters.Add(typeof(ValidationFilter)))
+        .AddFluentValidation(x => x.RegisterValidatorsFromAssemblyContaining<CreateCustomerCommandValidator>());
+
+builder.Services.AddMvc();    
 #endregion
 
 builder.Services.RegisterApplicationService();
