@@ -5,9 +5,6 @@ namespace Project.Customer.Domain.Entities
     [Table("Cliente")]
     public class CustomerEntities : BaseEntity
     {
-        //public CustomerEntities(DateTime modifiedDate) : base(modifiedDate)
-        //{ }
-
         [Column("cliente_nome")]
         public string CustomerName { get; private set; }
 

@@ -1,5 +1,6 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using Project.Customer.Application.Commands;
 using Project.Customer.Application.Queries;
 
 namespace Project.Customer.Api.Controllers
@@ -13,6 +14,17 @@ namespace Project.Customer.Api.Controllers
         public CustomerController(IMediator mediator)
         {
             _mediator = mediator;
+        }
+
+        [HttpPost]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        public async Task<IActionResult> GetInsertCustomer([FromBody]CreateCustomerCommand customerCommand)
+        {
+            var result = await _mediator.Send(customerCommand);
+
+            return Ok(result);
         }
 
         [HttpGet]

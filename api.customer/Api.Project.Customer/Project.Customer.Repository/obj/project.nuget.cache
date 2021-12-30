@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QPBxQ1zq+sjLUb4Ody5DBgfq+GabPi9N/bdTxe39KJ/QTi+TTf74sw14IDLZhC36dWPSfwYUWBkxbCHK9yuIAw==",
+  "dgSpecHash": "o/eAHcA0laKgl08oeZBS8Bjl9WsdFbVvzLJlJwTRJiSWqMsZkn0YSwim6li6RLFm3Q1ajTWlqO1TWwHN6sZ26w==",
   "success": true,
   "projectFilePath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Repository\\Project.Customer.Infra.Persistence.csproj",
   "expectedPackageFiles": [

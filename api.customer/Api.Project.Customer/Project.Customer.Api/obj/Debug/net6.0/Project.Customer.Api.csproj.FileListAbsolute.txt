@@ -82,6 +82,9 @@ E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api
 E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Api\bin\Debug\net6.0\Autofac.dll
 E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Api\bin\Debug\net6.0\AutoMapper.dll
 E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Api\bin\Debug\net6.0\FluentValidation.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Api\bin\Debug\net6.0\Humanizer.dll
 E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Api\bin\Debug\net6.0\MediatR.dll
 E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
@@ -144,6 +147,3 @@ E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api
 E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Api\obj\Debug\net6.0\ref\Project.Customer.Api.dll
 E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Api\obj\Debug\net6.0\Project.Customer.Api.pdb
 E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Api\obj\Debug\net6.0\Project.Customer.Api.genruntimeconfig.cache
-E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Api\bin\Debug\net6.0\FluentValidation.dll
-E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
-E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
