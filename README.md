@@ -12,6 +12,10 @@ Utilizando conceitos como:
   - FluentValidation
   - Class Generics
  
+ Projeto C# .NET6 
+  - RabbitMQ
+  - MassTransit
+ 
 Utilizando arquitetura clean architecture:
 
 
