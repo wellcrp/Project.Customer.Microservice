@@ -1,0 +1,17 @@
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\bin\Debug\net6.0\RabbitMQ.infrastructure.IOC.deps.json
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\bin\Debug\net6.0\RabbitMQ.infrastructure.IOC.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\bin\Debug\net6.0\ref\RabbitMQ.infrastructure.IOC.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\bin\Debug\net6.0\RabbitMQ.infrastructure.IOC.pdb
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\bin\Debug\net6.0\RabbitMQ.Application.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\bin\Debug\net6.0\RabbitMQ.Domain.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\bin\Debug\net6.0\RabbitMQ.Application.pdb
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\bin\Debug\net6.0\RabbitMQ.Domain.pdb
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\obj\Debug\net6.0\RabbitMQ.infrastructure.IOC.csproj.AssemblyReference.cache
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\obj\Debug\net6.0\RabbitMQ.infrastructure.IOC.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\obj\Debug\net6.0\RabbitMQ.infrastructure.IOC.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\obj\Debug\net6.0\RabbitMQ.infrastructure.IOC.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\obj\Debug\net6.0\RabbitMQ.infrastructure.IOC.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\obj\Debug\net6.0\RabbitMQ.infrastructure.IOC.csproj.CopyComplete
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\obj\Debug\net6.0\RabbitMQ.infrastructure.IOC.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\obj\Debug\net6.0\ref\RabbitMQ.infrastructure.IOC.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.infrastructure.IOC\obj\Debug\net6.0\RabbitMQ.infrastructure.IOC.pdb

@@ -1,0 +1,15 @@
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Application\bin\Debug\net6.0\RabbitMQ.Application.deps.json
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Application\bin\Debug\net6.0\RabbitMQ.Application.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Application\bin\Debug\net6.0\ref\RabbitMQ.Application.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Application\bin\Debug\net6.0\RabbitMQ.Application.pdb
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Application\bin\Debug\net6.0\RabbitMQ.Domain.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Application\bin\Debug\net6.0\RabbitMQ.Domain.pdb
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Application\obj\Debug\net6.0\RabbitMQ.Application.csproj.AssemblyReference.cache
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Application\obj\Debug\net6.0\RabbitMQ.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Application\obj\Debug\net6.0\RabbitMQ.Application.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Application\obj\Debug\net6.0\RabbitMQ.Application.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Application\obj\Debug\net6.0\RabbitMQ.Application.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Application\obj\Debug\net6.0\RabbitMQ.Application.csproj.CopyComplete
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Application\obj\Debug\net6.0\RabbitMQ.Application.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Application\obj\Debug\net6.0\ref\RabbitMQ.Application.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Application\obj\Debug\net6.0\RabbitMQ.Application.pdb

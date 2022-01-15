@@ -1,0 +1,12 @@
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Domain\bin\Debug\net6.0\RabbitMQ.Domain.deps.json
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Domain\bin\Debug\net6.0\RabbitMQ.Domain.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Domain\bin\Debug\net6.0\ref\RabbitMQ.Domain.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Domain\bin\Debug\net6.0\RabbitMQ.Domain.pdb
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Domain\obj\Debug\net6.0\RabbitMQ.Domain.csproj.AssemblyReference.cache
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Domain\obj\Debug\net6.0\RabbitMQ.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Domain\obj\Debug\net6.0\RabbitMQ.Domain.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Domain\obj\Debug\net6.0\RabbitMQ.Domain.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Domain\obj\Debug\net6.0\RabbitMQ.Domain.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Domain\obj\Debug\net6.0\RabbitMQ.Domain.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Domain\obj\Debug\net6.0\ref\RabbitMQ.Domain.dll
+E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.RabbitMQ\Api.Customer.RabbitMQ\RabbitMQ.Domain\obj\Debug\net6.0\RabbitMQ.Domain.pdb
