@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vYBEo8tvzkkMZ5LWzu5zU2/eMJk65HnB1a3Knr9Nv/tyVVIG+19X0mZt4ZKIgptAfuCGrjFtJUZSBZnfGqcthA==",
+  "dgSpecHash": "0vS0KcsAh2QwHd3GjRIuzFtCcVt4nM1wnnP3wTEbTLywpNhS7zNQzJrOtrde56CsH0UKLEsv1cgG/vMIaHR8UA==",
   "success": true,
-  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Domain\\Project.Customer.Domain.csproj",
+  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C7-MICROSERVICE\\Back-end\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Domain\\Project.Customer.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

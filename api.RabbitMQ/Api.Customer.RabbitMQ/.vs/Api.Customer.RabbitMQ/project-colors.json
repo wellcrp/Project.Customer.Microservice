@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "58e0430d-3b10-4983-87a0-14197e426c5a": {
+      "ProjectGuid": "58e0430d-3b10-4983-87a0-14197e426c5a",
+      "DisplayName": "RabbitMQ.Api",
+      "ColorIndex": 0
+    },
+    "28b8a16c-374b-4228-8e6f-4a931d068f36": {
+      "ProjectGuid": "28b8a16c-374b-4228-8e6f-4a931d068f36",
+      "DisplayName": "RabbitMQ.Domain",
+      "ColorIndex": 1
+    },
+    "73a983e2-55e4-4a99-946c-7046e5dc4e28": {
+      "ProjectGuid": "73a983e2-55e4-4a99-946c-7046e5dc4e28",
+      "DisplayName": "RabbitMQ.Application",
+      "ColorIndex": 2
+    },
+    "ca151e2f-b967-43c9-b29b-9a4475c9f806": {
+      "ProjectGuid": "ca151e2f-b967-43c9-b29b-9a4475c9f806",
+      "DisplayName": "RabbitMQ.infrastructure.IOC",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

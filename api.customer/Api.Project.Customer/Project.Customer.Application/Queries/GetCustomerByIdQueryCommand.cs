@@ -11,7 +11,7 @@ namespace Project.Customer.Application.Queries
         }
 
         public int CustomerId { get; private set; }
-        public string CustomerName { get; set; }
+        public string CustomerName { get; set; } = default!;
         public int CustomerAge { get; set; }
         public string? CustomerEmail { get; set; }
     }

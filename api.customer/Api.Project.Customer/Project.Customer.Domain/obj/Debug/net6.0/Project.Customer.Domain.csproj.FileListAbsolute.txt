@@ -21,3 +21,15 @@ E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api
 E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Domain\obj\Debug\net6.0\ref\Project.Customer.Domain.dll
 E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Domain\obj\Debug\net6.0\Project.Customer.Domain.pdb
 E:\CodeBox\Project-Estudos\C#\A16-MICROSERVICE\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Domain\obj\Debug\net6.0\Project.Customer.Domain.csproj.AssemblyReference.cache
+E:\CodeBox\Project-Estudos\GitHub\C7-MICROSERVICE\Back-end\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Domain\bin\Debug\net6.0\Project.Customer.Domain.deps.json
+E:\CodeBox\Project-Estudos\GitHub\C7-MICROSERVICE\Back-end\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Domain\bin\Debug\net6.0\Project.Customer.Domain.dll
+E:\CodeBox\Project-Estudos\GitHub\C7-MICROSERVICE\Back-end\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Domain\bin\Debug\net6.0\ref\Project.Customer.Domain.dll
+E:\CodeBox\Project-Estudos\GitHub\C7-MICROSERVICE\Back-end\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Domain\bin\Debug\net6.0\Project.Customer.Domain.pdb
+E:\CodeBox\Project-Estudos\GitHub\C7-MICROSERVICE\Back-end\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Domain\obj\Debug\net6.0\Project.Customer.Domain.csproj.AssemblyReference.cache
+E:\CodeBox\Project-Estudos\GitHub\C7-MICROSERVICE\Back-end\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Domain\obj\Debug\net6.0\Project.Customer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\GitHub\C7-MICROSERVICE\Back-end\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Domain\obj\Debug\net6.0\Project.Customer.Domain.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\GitHub\C7-MICROSERVICE\Back-end\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Domain\obj\Debug\net6.0\Project.Customer.Domain.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\GitHub\C7-MICROSERVICE\Back-end\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Domain\obj\Debug\net6.0\Project.Customer.Domain.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\GitHub\C7-MICROSERVICE\Back-end\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Domain\obj\Debug\net6.0\Project.Customer.Domain.dll
+E:\CodeBox\Project-Estudos\GitHub\C7-MICROSERVICE\Back-end\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Domain\obj\Debug\net6.0\ref\Project.Customer.Domain.dll
+E:\CodeBox\Project-Estudos\GitHub\C7-MICROSERVICE\Back-end\Project.Customer.Microservice\api.customer\Api.Project.Customer\Project.Customer.Domain\obj\Debug\net6.0\Project.Customer.Domain.pdb

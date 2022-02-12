@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o/eAHcA0laKgl08oeZBS8Bjl9WsdFbVvzLJlJwTRJiSWqMsZkn0YSwim6li6RLFm3Q1ajTWlqO1TWwHN6sZ26w==",
+  "dgSpecHash": "vS1Mc5ox9e8LsZFj0M4tK9B80To8EQBPENyQOjBcbjSIi7y05WLPIVQ3hMQOliqgqUEGptSNKQM1Ya9fP9mKFQ==",
   "success": true,
-  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Repository\\Project.Customer.Infra.Persistence.csproj",
+  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C7-MICROSERVICE\\Back-end\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Repository\\Project.Customer.Infra.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

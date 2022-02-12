@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bg6By8s9zjzZPnQTdo5FciSFkWZsTz1KlYL2nxc0fdp8vtVww5weTDsXkG9jbPBCJ2/P/8r/AW3YrKZPSJKsBw==",
+  "dgSpecHash": "TiDWbljTrm4Mpjk2SEhGeth7KtwPbxGr1KH1CJP9trzFzfoe/fMj33meE4l9fsgCg2vmRngReOKlIFDrBtMIHg==",
   "success": true,
-  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Application\\Project.Customer.Application.csproj",
+  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C7-MICROSERVICE\\Back-end\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Application\\Project.Customer.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\well_\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

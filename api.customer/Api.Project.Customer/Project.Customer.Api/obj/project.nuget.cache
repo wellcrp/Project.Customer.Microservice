@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fiiB4+7h1KcbbtO4MilTvdWv+1dAkDwUiWhNP1FdR4+vugF1m0s5P/6j6/WpBge/EP8i4+SZQ3NFRMXa+KkX2g==",
+  "dgSpecHash": "zQUz5A6ZWaYuvGgO0cD1IPV/Ne5av9EsIbEFFUk6qdYrGxz0bgombilb4deBZuhN093pC7ZrvCW6LVAv4519jw==",
   "success": true,
-  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\C#\\A16-MICROSERVICE\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Api\\Project.Customer.Api.csproj",
+  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C7-MICROSERVICE\\Back-end\\Project.Customer.Microservice\\api.customer\\Api.Project.Customer\\Project.Customer.Api\\Project.Customer.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\well_\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
