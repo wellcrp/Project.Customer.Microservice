@@ -16,7 +16,7 @@ Utilizando conceitos como:
   - RabbitMQ
   - MassTransit
  
-Utilizando arquitetura clean architecture:
+Utilizando Clean architecture:
 
 
 ![Clean-Architecture](https://user-images.githubusercontent.com/9687518/145725076-31ffaf3e-a057-42fc-a0df-5761b8f10399.png)
